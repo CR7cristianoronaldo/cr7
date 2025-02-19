@@ -24,6 +24,13 @@ section {
     color: #CB6D43;
     font-weight: 600;
 }
+.menu-acessibilidade{
+    position: fixed;
+    top:2rem;
+    right:20px;
+    z-index: 1000;
+}
+
 
 .inicio-fundo {
     /* aula 3 */
